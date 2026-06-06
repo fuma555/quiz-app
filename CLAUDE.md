@@ -40,6 +40,10 @@
 - `correct` — 正解の選択肢インデックス（0始まり）
 - `explanation` — 解説文
 
+## GitHubリポジトリ
+
+https://github.com/fuma555/quiz-app.git
+
 ## 開発上の注意
 
 - フレームワーク・ライブラリは導入しない（バニラJS維持）
